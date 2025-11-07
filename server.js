@@ -29,7 +29,7 @@ let db;
       funcionario TEXT,
       tarefa TEXT,
       concluida BIT,
-      datacriacao DATE,
+      datacriacao DATE
     );
   `);
 
